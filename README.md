@@ -81,3 +81,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></li>
   <li><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></li>
 </ul>
+
+<h2>⚙️Functions</h2>
+<ul type="none">
+<li>📝 Add task</li>
+<li>❌ Delete task</li>
+<li>✔️ Conclude task</li>
+<li>⚠️ Validation</li>
+</ul>
